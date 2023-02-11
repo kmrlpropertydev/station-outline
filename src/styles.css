@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#map {
+  width: 100%;
+  height: 500px;
+}
+
+.container {
+  display: flex;
+}
+
+.available-spaces {
+  border: 2px solid red;
+  display: flex;
+  flex-wrap: column;
+}
